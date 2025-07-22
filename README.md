@@ -16,7 +16,7 @@ This repository contains 3 integrated data science projects:
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/your-username/customer-intelligence-suite.git
+git clone https://github.com/Swayam2905/customer-intelligence-suite.git
 cd customer-intelligence-suite
 pip install -r churn_prediction/requirements.txt
 streamlit run streamlit_dashboard/app.py

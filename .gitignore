@@ -1,0 +1,27 @@
+# Virtual environments
+my_env1/
+env/
+.venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code config
+.vscode/
+
+# Data files
+*.csv
+*.xlsx
+*.zip
+*.db
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
